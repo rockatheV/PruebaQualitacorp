@@ -1,0 +1,13 @@
+{
+  "name": "banca-movil-qa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proyecto de pruebas automatizadas Cypress para validar retiros con talonario en Banca Móvil. Realizado por Katherinne Díaz",
+  "scripts": {
+    "cypress:open": "npx cypress open",
+    "cypress:run": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
